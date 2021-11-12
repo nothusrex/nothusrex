@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nothusrex
-- 👀 I’m interested in revolutionary software development, web development, and blockchain
+- 👀 I’m interested in revolutionary software development, web development, and blockchain technology
 - 🌱 I’m currently learning HTML, CSS, and Javascript on freeCodeCamp.org
-- 💞️ I’m looking to collaborate on projects that teach continue my education
+- 💞️ I’m looking to collaborate on projects that change the world for the better
 - 📫 How to reach me: xersuhton@nothusrex.com, call/text/telegram (831) 229-9524
 
 <!---
